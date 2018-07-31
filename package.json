@@ -1,5 +1,5 @@
 {
-  "name": "app-error",
+  "name": "@bonjourjohn/app-error",
   "version": "1.0.0",
   "description": "## Install",
   "main": "appError.js",
