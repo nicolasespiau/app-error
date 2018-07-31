@@ -1,0 +1,28 @@
+{
+  "name": "app-error",
+  "version": "1.0.0",
+  "description": "## Install",
+  "main": "appError.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasespiau/app-error.git"
+  },
+  "author": "ESPIAU Nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasespiau/app-error/issues"
+  },
+  "homepage": "https://github.com/nicolasespiau/app-error#readme",
+  "devDependencies": {
+    "mocha": "^5.0.4"
+  },
+  "dependencies": {
+    "unit.js": "^2.0.0"
+  }
+}
